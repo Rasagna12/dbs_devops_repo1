@@ -2,3 +2,4 @@
 Welcome to dbs
 Let's learn devops
 The tools we will lear are git, jenins, sonarube
+Sentence added
